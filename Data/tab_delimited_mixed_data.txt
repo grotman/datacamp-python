@@ -1,0 +1,6 @@
+Var1	Var2	Var3
+1	abc	True
+2	bcd	True
+3	cde	False
+4	def	True
+5	efg	False
