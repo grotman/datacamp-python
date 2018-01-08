@@ -1,0 +1,1 @@
+My first file to be committed into GitHub repository and later pushed. Let's check it out.
